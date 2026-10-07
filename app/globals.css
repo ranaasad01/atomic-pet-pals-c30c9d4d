@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
+
+:root {
+  /* Brand palette */
+  --brand-yellow: #FFD700;
+  --brand-yellow-dark: #E6C200;
+  --brand-yellow-light: #FFF4E0;
+  --brand-red: #FF6B6B;
+  --brand-red-dark: #E05555;
+  --brand-green: #6BCB77;
+  --brand-green-dark: #4DAF5A;
+  --brand-blue: #4D96FF;
+  --brand-blue-dark: #2E7FE8;
+  --brand-purple: #C77DFF;
+  --brand-purple-dark: #A855F7;
+
+  /* Semantic tokens */
+  --background: #FFF4E0;
+  --foreground: #2D2D2D;
+  --card: #FFFFFF;
+  --border: #FFD700;
+  --muted-foreground: #6B6B6B;
+
+  /* Hunger bar */
+  --bar-hunger: #FF6B6B;
+  --bar-happiness: #6BCB77;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Nunito', var(--font-nunito), system-ui, sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Custom scrollbar for fun */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--brand-yellow-light);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--brand-yellow);
+  border-radius: 999px;
+  border: 2px solid var(--brand-yellow-light);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brand-yellow-dark);
+}
+
+/* Focus ring utility */
+.focus-ring {
+  outline: none;
+}
+.focus-ring:focus-visible {
+  ring: 4px solid var(--brand-red);
+}
+
+@layer utilities {
+  .font-nunito {
+    font-family: 'Nunito', var(--font-nunito), system-ui, sans-serif;
+  }
+}

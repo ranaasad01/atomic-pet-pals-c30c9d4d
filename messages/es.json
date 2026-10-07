@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Inicio 🏠",
+    "pets": "Mis Mascotas 🐾",
+    "shop": "Tienda 🛒",
+    "about": "Acerca de 💛"
+  },
+  "footer": {
+    "tagline": "¡Cuida, juega y ama a tus mascotas virtuales!",
+    "copyright": "© 2024 Pet Pals. Hecho con 💛 para niños de todo el mundo.",
+    "safe": "¡Seguro, divertido y sin anuncios!"
+  },
+  "meta": {
+    "title": "Pet Pals - ¡Cuida a tus adorables mascotas!",
+    "description": "Un divertido juego de tienda de mascotas para niños. ¡Alimenta, juega y ama a tus cuatro adorables mascotas!"
+  },
+  "hero": {
+    "badge": "100 monedas para empezar",
+    "headline": "Pet Pals",
+    "tagline": "¡Cuida a tus adorables mascotas!",
+    "body": "Alimenta, juega y ama a tus cuatro adorables mascotas. ¡Mantenlas felices y gana el título de Gran Cuidador de Mascotas!",
+    "cta_pets": "Conoce Mis Mascotas",
+    "cta_shop": "Visitar Tienda"
+  },
+  "happy_banner": {
+    "headline": "¡Eres un gran cuidador de mascotas!",
+    "subline": "¡Todas tus mascotas están felices y amadas! ¡Sigue así!"
+  },
+  "pets": {
+    "heading": "Mis Mascotas",
+    "subheading": "¡Alimenta, juega y acaricia a tus adorables mascotas para mantenerlas felices!",
+    "bag_heading": "Tu Bolsa",
+    "mood_super": "¡Super feliz!",
+    "mood_good": "¡Se siente bien!",
+    "mood_ok": "Podría estar más feliz",
+    "mood_sad": "Necesita amor",
+    "action_feed": "Alimentar",
+    "action_play": "Jugar",
+    "action_pet": "Acariciar"
+  },
+  "shop": {
+    "heading": "Tienda de Mascotas",
+    "subheading": "¡Gasta tus monedas en comida deliciosa y juguetes divertidos!",
+    "food_heading": "Comida",
+    "toys_heading": "Juguetes",
+    "buy_btn": "¡Comprar!",
+    "cant_afford": "No tienes suficientes monedas"
+  },
+  "how_to_play": {
+    "heading": "Cómo Jugar",
+    "subheading": "¡Es fácil y super divertido!",
+    "tips": [
+      {
+        "emoji": "🪙",
+        "title": "Earn Coins",
+        "desc": "You start with 100 coins. Use them wisely to buy food and toys for your pets!"
+      },
+      {
+        "emoji": "🍖",
+        "title": "Feed Your Pets",
+        "desc": "Buy food from the shop, then tap Feed on a pet to fill up their hunger bar!"
+      },
+      {
+        "emoji": "⚽",
+        "title": "Play With Toys",
+        "desc": "Buy a ball or teddy, then tap Play to boost your pet's happiness bar!"
+      },
+      {
+        "emoji": "🤗",
+        "title": "Give Cuddles",
+        "desc": "Tap Pet anytime for free! A little love goes a long way for a happy pet."
+      },
+      {
+        "emoji": "😊",
+        "title": "Keep Them Happy",
+        "desc": "Get every pet's happiness above 70% to unlock the Great Pet Keeper award!"
+      },
+      {
+        "emoji": "🛒",
+        "title": "Visit the Shop",
+        "desc": "The shop has kibble, treats, balls and teddies. Each item helps in a different way!"
+      }
+    ]
+  },
+  "meet_gang": {
+    "heading": "Conoce la Pandilla",
+    "subheading": "¡Cuatro adorables mascotas esperan tu amor!",
+    "bios": {
+      "cat": "¡Le encantan las siestas y los rasguños en la barbilla!",
+      "dog": "¡Siempre listo para jugar a traer!",
+      "bunny": "¡Salta por todas partes y ama las verduras!",
+      "hamster": "¡Pequeño pero lleno de energía!"
+    }
+  },
+  "cta": {
+    "heading": "¿Puedes hacer felices a todas las mascotas?",
+    "body": "¡Sube la felicidad de cada mascota por encima del 70% y gana el premio Gran Cuidador de Mascotas!",
+    "btn": "¡Juega Ahora!"
+  }
+}

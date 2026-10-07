@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home 🏠",
+    "pets": "My Pets 🐾",
+    "shop": "Shop 🛒",
+    "about": "About 💛"
+  },
+  "footer": {
+    "tagline": "Care, play, and love your virtual pets!",
+    "copyright": "© 2024 Pet Pals. Made with 💛 for kids everywhere.",
+    "safe": "Safe, fun, and ad-free!"
+  },
+  "meta": {
+    "title": "Pet Pals - Take care of your furry friends!",
+    "description": "A fun pet shop game for kids. Feed, play with, and love your four adorable pets!"
+  },
+  "hero": {
+    "badge": "100 coins to start",
+    "headline": "Pet Pals",
+    "tagline": "Take care of your furry friends!",
+    "body": "Feed, play with, and love your four adorable pets. Keep them happy and earn the title of Great Pet Keeper!",
+    "cta_pets": "Meet My Pets",
+    "cta_shop": "Visit Shop"
+  },
+  "happy_banner": {
+    "headline": "You're a great pet keeper!",
+    "subline": "All your pets are happy and loved! Keep it up!"
+  },
+  "pets": {
+    "heading": "My Pets",
+    "subheading": "Feed, play, and pet your furry friends to keep them happy!",
+    "bag_heading": "Your Bag",
+    "mood_super": "Super happy!",
+    "mood_good": "Feeling good!",
+    "mood_ok": "Could be happier",
+    "mood_sad": "Needs some love",
+    "action_feed": "Feed",
+    "action_play": "Play",
+    "action_pet": "Pet"
+  },
+  "shop": {
+    "heading": "Pet Shop",
+    "subheading": "Spend your coins on yummy food and fun toys!",
+    "food_heading": "Food",
+    "toys_heading": "Toys",
+    "buy_btn": "Buy!",
+    "cant_afford": "Not enough coins"
+  },
+  "how_to_play": {
+    "heading": "How to Play",
+    "subheading": "It's easy and super fun!",
+    "tips": [
+      {
+        "emoji": "🪙",
+        "title": "Earn Coins",
+        "desc": "You start with 100 coins. Use them wisely to buy food and toys for your pets!"
+      },
+      {
+        "emoji": "🍖",
+        "title": "Feed Your Pets",
+        "desc": "Buy food from the shop, then tap Feed on a pet to fill up their hunger bar!"
+      },
+      {
+        "emoji": "⚽",
+        "title": "Play With Toys",
+        "desc": "Buy a ball or teddy, then tap Play to boost your pet's happiness bar!"
+      },
+      {
+        "emoji": "🤗",
+        "title": "Give Cuddles",
+        "desc": "Tap Pet anytime for free! A little love goes a long way for a happy pet."
+      },
+      {
+        "emoji": "😊",
+        "title": "Keep Them Happy",
+        "desc": "Get every pet's happiness above 70% to unlock the Great Pet Keeper award!"
+      },
+      {
+        "emoji": "🛒",
+        "title": "Visit the Shop",
+        "desc": "The shop has kibble, treats, balls and teddies. Each item helps in a different way!"
+      }
+    ]
+  },
+  "meet_gang": {
+    "heading": "Meet the Gang",
+    "subheading": "Four adorable pets are waiting for your love!",
+    "bios": {
+      "cat": "Loves naps and chin scratches!",
+      "dog": "Always ready to play fetch!",
+      "bunny": "Hops around and loves veggies!",
+      "hamster": "Tiny but full of energy!"
+    }
+  },
+  "cta": {
+    "heading": "Can you make all pets happy?",
+    "body": "Get every pet's happiness above 70% and earn the Great Pet Keeper award!",
+    "btn": "Play Now!"
+  }
+}
